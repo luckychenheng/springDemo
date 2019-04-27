@@ -1,4 +1,4 @@
 
-Asquid:S2629$"$Invoke method(s) only conditionally.(û¾ñ8œÄø¤-
-\squid:S3516!"9Refactor this method to not always return the same value.(ñ«âåùÿÿÿÿ8œÄø¤-
-Msquid:S00108,")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8œÄø¤-
+Ksquid:S00108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8œÄø¤-
+Zsquid:S3516"9Refactor this method to not always return the same value.(ñ«âåùÿÿÿÿ8œÄø¤-
+?squid:S2629"$Invoke method(s) only conditionally.(û¾ñ8œÄø¤-
